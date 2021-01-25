@@ -1,6 +1,6 @@
-# receiverDCF77
+# Receiver for DCF77 signal
 
-#### Requirements
+ds#### Requirements
 :computer: Atmel AT89C51 \
 :satellite: DCF77 receiver
 
